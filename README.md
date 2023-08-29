@@ -14,7 +14,7 @@
 
 ## Feito por:
 
-### Pedro Cavalcante
+### Joana Santos
 
 ### Linkedin: https://www.linkedin.com/school/aluracursos/
 
